@@ -5,9 +5,11 @@ The **Simple Order Management System** is a web-based application for managing p
 
 ## Features
 
-- **User Registration & Order Placement**: Users can register and place orders.
-- **Product Management**: Admins can add products and manage stock.
-- **Order Management**: Users can view their orders.
+- **Place Orders**: Users can place orders for products, checking product availability before proceeding with the order.
+- **View Orders**: Users can view their past orders and order details, including product information, order date, and total amount.
+- **Stock Management**: When placing an order, the system checks if the requested quantity is available in stock and ensures stock is updated accordingly after order placement.
+
+## Technologies Used
 
 ## Technologies Used
 
